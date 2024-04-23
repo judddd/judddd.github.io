@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on judddd</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on judddd</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 22 Apr 2024 16:22:49 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Golang</title>
+        <link>http://localhost:1313/categories/golang/</link>
+        <pubDate>Mon, 22 Apr 2024 16:22:49 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/golang/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/golang/golang.jpg" alt="Featured image of post Golang" /&gt;</description>
+        </item>
+        <item>
+        <title>rust</title>
+        <link>http://localhost:1313/categories/rust/</link>
+        <pubDate>Fri, 19 Apr 2024 14:42:10 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/rust/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/rust/rust.jpg" alt="Featured image of post rust" /&gt;</description>
+        </item>
+        <item>
+        <title>ES</title>
+        <link>http://localhost:1313/categories/es/</link>
+        <pubDate>Tue, 16 Apr 2024 18:20:09 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/es/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/es/es.jpg" alt="Featured image of post ES" /&gt;</description>
+        </item>
+        <item>
+        <title>Daily</title>
+        <link>http://localhost:1313/categories/daily/</link>
+        <pubDate>Mon, 15 Apr 2024 20:40:02 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/daily/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>db</title>
+        <link>http://localhost:1313/categories/db/</link>
+        <pubDate>Sun, 14 Apr 2024 23:37:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/db/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/db/sql.jpg" alt="Featured image of post db" /&gt;</description>
+        </item>
+        <item>
+        <title>Devops</title>
+        <link>http://localhost:1313/categories/devops/</link>
+        <pubDate>Sun, 14 Apr 2024 23:37:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/devops/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>JAVA</title>
+        <link>http://localhost:1313/categories/java/</link>
+        <pubDate>Sun, 14 Apr 2024 23:37:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/java/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/java/java.jpg" alt="Featured image of post JAVA" /&gt;</description>
+        </item>
+        <item>
+        <title>k8s</title>
+        <link>http://localhost:1313/categories/k8s/</link>
+        <pubDate>Sun, 14 Apr 2024 23:37:39 +0800</pubDate>
+        
+        <guid>http://localhost:1313/categories/k8s/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/k8s/k8s.jpg" alt="Featured image of post k8s" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
